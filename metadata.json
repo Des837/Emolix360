@@ -1,0 +1,5 @@
+{
+  "name": "Emoliente Smart Control",
+  "description": "Controlador de gestión inteligente para venta de emoliente en Cajamarca. Funciona como controlador digital para registrar ventas, gastos y utilidad en tiempo real.",
+  "requestFramePermissions": []
+}
